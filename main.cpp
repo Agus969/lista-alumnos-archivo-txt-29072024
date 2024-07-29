@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-
+// Nota de prueba (29/07/2024 por la tarde)
 using namespace std;
 
 int main() {
