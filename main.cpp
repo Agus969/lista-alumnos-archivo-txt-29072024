@@ -14,9 +14,8 @@ int main() {
     string nombre;
     char continuar;
 
-    do}
-        cout << "Pon ya, introduce el nombre del alumno: ";
-
+    do {
+        cout << "Por favor, introduce el nombre del alumno: ";
         cin >> nombre;
         archivo << nombre << endl;
 
